@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+h2{
+    background-color: aqua;
+    border: 1px;
+    border-radius: 5px;
+    margin: 1px;
+    padding: 15px;
+    font-size: 16px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+a{
+    float: right;
+}
